@@ -218,8 +218,8 @@ msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
-"Sorry, aber nichts entsprach Ihre Suchbegriffe. Bitte versuchen Sie es "
-"erneut, mit einigen Suchbegriff."
+"Leider haben Ihre Suchbegriffe keine Treffer erzielt. Bitte versuchen Sie es "
+"erneut, mit einigen Suchbegriffen."
 
 #: ../../no-results.php
 msgid ""
